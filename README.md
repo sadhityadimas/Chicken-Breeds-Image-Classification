@@ -1,5 +1,5 @@
 # Chicken-Breeds-Image-Classification
-# The Trained Model is saved in Pickle, you can download and load it to use in your own script
+# The Trained Model is saved in h5 format, you can download and load it to use in your own script
 Chicken Breeds Image Classification Project using CNN, data taken from kaggle 
 link to file : https://www.kaggle.com/abdalnassir/chicken-breeds
 * The dataset can be fetch using kaggle library on colab 
@@ -14,7 +14,12 @@ link to file : https://www.kaggle.com/abdalnassir/chicken-breeds
 * Pandas
 * Kaggle
 
+### Total Sample
 
+| type   |   Chick |   Speckled Sussex |   American Gamefowl |   Sapphire Gem |   Wyandotte |   total |
+|:-------|--------:|------------------:|--------------------:|---------------:|------------:|--------:|
+| train  |     164 |               164 |                 168 |            164 |         200 |     860 |
+| val    |      36 |                36 |                  36 |             36 |          59 |     203 |
 
 ### Display random images to examine
 
