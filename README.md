@@ -17,7 +17,9 @@ link to file : https://www.kaggle.com/abdalnassir/chicken-breeds
 
 
 ### Display random images to examine
+
 ![](/img/data sample.png)
+
 
 ### Rescaling Image
 ### Image Augmenting (train set only)
